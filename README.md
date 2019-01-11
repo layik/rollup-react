@@ -1,0 +1,1 @@
+The basic example of rollup with React from the ReactJS people using this [gist](https://gist.github.com/Rich-Harris/cb14f4bc0670c47d00d191565be36bf0).
