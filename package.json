@@ -16,7 +16,7 @@
     "dev": "export NODE_ENV=development && rollup -c -w"
   },
   "dependencies": {
-    "react": "^15.4.2",
-    "react-dom": "^15.4.2"
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
   }
 }
